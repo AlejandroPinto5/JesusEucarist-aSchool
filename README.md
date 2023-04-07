@@ -1,3 +1,3 @@
 # JesusEucaristiaSchool
 
-Data and Google Collab notebook with analysis of physics mock tests results of tenth and eleventh grade of Jesus Eucaristía school. 
+Data and Google Collab notebook with analysis of physics mock tests results of tenth and eleventh grade of Jesus Eucaristía school. The analysis examined the performance of high school students in the area of physics at Jesús Eucaristia School in the year 2021. The data included scores from 5 tests, which were used to prepare students for the Colombian scholastic aptitude test (ICFES). The report presented measures of central tendency (mean, median, and mode) for each course on each test, as well as a histogram of the distribution of scores. Overall, the analysis report provides valuable insights into the performance of high school students in physics and can inform future improvements to the physics program at Jesús Eucaristia School.
